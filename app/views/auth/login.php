@@ -22,7 +22,7 @@
 			<input type="password" name="password" placeholder="Enter Password">
 		</div>
 		<div>
-			<input type="submit" value="Login ! ">
+			<input type="submit" value="signin">
 		</div>
 		<input type="hidden" name="{{ csrf_key  }}" value="{{ csrf_token  }}">
 	</form>
