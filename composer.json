@@ -1,0 +1,21 @@
+{
+
+    "autoload" : {
+        "psr-4" : {
+            "Classess\\" : "app/Classess"
+        }
+    },
+    "require": {
+        "slim/slim": "^2.6",
+        "slim/views": "^0.1.3",
+        "twig/twig": "^1.18",
+        "phpmailer/phpmailer": "^5.2",
+        "hassankhan/config": "^0.8.2",
+        "illuminate/database": "^5.1",
+        "alexgarrett/violin": "^2.2",
+        "ircmaxell/random-lib": "^1.1",
+        "mailgun/mailgun-php": "~1.7.2"
+    }
+
+
+}
