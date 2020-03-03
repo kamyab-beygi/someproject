@@ -5,6 +5,6 @@
 	<title>sign up</title>
 </head>
 <body>
-	<p>Sign up</p>
+	<p class="signupStyle">Sign up</p>
 </body>
 </html>
