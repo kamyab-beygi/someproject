@@ -1,0 +1,44 @@
+[33mcommit 45e31f62d68617c9c9e00aff0513fa224493432d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kamyab Alex <kamyab.ali.b@gmail.com>
+Date:   Wed Mar 4 14:45:49 2020 +0100
+
+    sign up done
+
+[33mcommit 957cb378af985949e17ee8bb211b2751a8aebadf[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/header[m[33m, [m[1;32mheader[m[33m)[m
+Author: Kamyab Alex <kamyab.ali.b@gmail.com>
+Date:   Tue Mar 3 21:38:44 2020 +0100
+
+    change signup style
+
+[33mcommit 6ada53742f833ff5d2fa695c5255a277680c667c[m
+Author: Kamyab Alex <kamyab.ali.b@gmail.com>
+Date:   Tue Mar 3 21:36:25 2020 +0100
+
+    Added signup Page
+
+[33mcommit cde19019180fc9b7f458ea20ae2811a28b11f427[m
+Merge: 88cb8c7 e1595bc
+Author: kamyab <kamyab.ali.b@gmail.com>
+Date:   Tue Mar 3 20:50:12 2020 +0100
+
+    Merge pull request #1 from kamyab-beygi/contact
+    
+    edit login page again
+
+[33mcommit e1595bc7f131f1643f60abae467fa98ef9fa7fc6[m[33m ([m[1;31morigin/contact[m[33m)[m
+Author: Kamyab Alex <kamyab.ali.b@gmail.com>
+Date:   Tue Mar 3 20:34:33 2020 +0100
+
+    edit login page again
+
+[33mcommit 88cb8c71acb1d4a106cec8683593ca6f8134ceb7[m
+Author: Kamyab Alex <kamyab.ali.b@gmail.com>
+Date:   Tue Mar 3 18:51:19 2020 +0100
+
+    chage login page
+
+[33mcommit e32e1959c14e0036fed832edccaf2b03537aca60[m
+Author: Kamyab Alex <kamyab.ali.b@gmail.com>
+Date:   Tue Mar 3 18:42:32 2020 +0100
+
+    first commit
